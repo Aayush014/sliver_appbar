@@ -18,6 +18,28 @@ This Flutter project demonstrates the usage of `SliverAppBar` within a custom sc
 - Dart SDK (>= 2.12.0)
 - A code editor like Visual Studio Code or Android Studio
 
+<details> 
+    <summary><h2>Photos📸</h2></summary>
+    <p>
+    <table align="center">
+        <tr>
+            <td><img src="https://github.com/Aayush014/sliver_appbar/assets/133498952/c3eb9836-2335-4af1-8805-42304c4b1529" alt="Image 2" width="180" height="auto"></td>
+            <td><img src="https://github.com/Aayush014/sliver_appbar/assets/133498952/c2b2f8bc-e993-4157-a21d-787de22a7d65" alt="Image 3" width="180" height="auto"></td>
+        </tr>
+    </table>
+    </p>
+</details>
+<details>
+    <summary><h2>📽️Video</h2></summary>
+    <p>
+    <table align="center">
+        <tr>
+            <video src ="https://github.com/Aayush014/sliver_appbar/assets/133498952/57f2bad5-920c-468a-8c25-26c5dd874d3a"></video> </h1>
+        </tr>
+    </table>   
+    </p>
+</details>
+
 ### Installation
 
 1. *Clone the repository:*
